@@ -10,5 +10,3 @@ linux 下利用v4l2库封装的摄像头采图库
 ### 调用
     具体调用方法及调用顺序请参见verifyEngineDemo工程
 ****
-# verifyEngineDemo工程链接如下：
-[verifyEngineDemo](http://192.168.30.222/verifyapp/verifyEngineDemo.git)
